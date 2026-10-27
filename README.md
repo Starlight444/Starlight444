@@ -3,6 +3,23 @@
 - 🌱 I’m currently learning about **RAG & LLM technologies** and **Software Tester**.
 - 🌱 I’m passionate about **UX/UI Design** and **Frontend Development**.
 
+ ## 📰 Certificate 
+ - AWS Academy Graduate - Cloud Foundations - Training Badge
+
+<img src="./aws-academy-graduate-cloud-foundations.png" alt="AWS Academy Cloud Foundations Certificate" width="200">
+
+## 📂 Projects
+- **Smart Furniture Warehouse**
+  - Team project
+  - Backend development using Python and Django
+  - Contributed to database design, ER diagram analysis and Backend developer
+  - link to Smart Furniture Warehouse repo https://github.com/FMaLife/Group10_CS251_Project.git
+- **ClassHub**
+  - Team project
+  - Contributed to UX/UI designer, Frontend developer
+  - link to ClassHub repo https://github.com/Starlight444/CS232_FinalProject.git
+
+## 🔎 Tools
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,9 +51,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,20 +65,6 @@
 ![LINE Messaging API](https://img.shields.io/badge/LINE_Messaging_API-00C300?style=for-the-badge&logo=line&logoColor=white)
 
 
- ## 📰 Certificate 
- - AWS Academy Graduate - Cloud Foundations - Training Badge
 
-<img src="./aws-academy-graduate-cloud-foundations.png" alt="AWS Academy Cloud Foundations Certificate" width="200">
-
-## 📂 Projects
-- **Smart Furniture Warehouse**
-  - Team project
-  - Backend development using Python and Django
-  - Contributed to database design, ER diagram analysis and Backend developer
-  - link to Smart Furniture Warehouse repo https://github.com/FMaLife/Group10_CS251_Project.git
-- **ClassHub**
-  - Team project
-  - Contributed to UX/UI designer, Frontend developer
-  - link to ClassHub repo https://github.com/Starlight444/CS232_FinalProject.git
 
 
