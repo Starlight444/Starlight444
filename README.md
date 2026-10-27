@@ -1,14 +1,19 @@
-## Hi, I am Chalisa Kanabsak
+## Hi, I am Chalisa Kanabsak 🙌
 🎓 Junior Computer Science student at Thammasat University
 
+- 🌱 I’m currently learning about **RAG and LLM technologies**.
+- 🌱 I’m passionate about **UX/UI Design** and **Frontend Development**.
+  
 ## 🛠️ Tools & Technologies
 - **Languages:** Python, HTML, CSS, JavaScript
 - **Backend:** Django
 - **Testing:** Postman 
 - **Tools:** Git, GitHub, VS Code
 
-🏅 Certificates
-AWS Academy Cloud Foundations 
+ ## 📰 Certificate 
+ - AWS Academy Graduate - Cloud Foundations - Training Badge
+
+<img src="./aws-academy-graduate-cloud-foundations.png" alt="AWS Academy Cloud Foundations Certificate" width="200">
 
 ## 📂 Projects
 - **Smart Furniture Warehouse**
@@ -22,17 +27,3 @@ AWS Academy Cloud Foundations
   - link to ClassHub repo https://github.com/Starlight444/CS232_FinalProject.git
 
 
-<!--
-**Starlight444/Starlight444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
