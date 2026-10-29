@@ -1,7 +1,9 @@
-## Hi, I am Chalisa Kanabsak 🙌
+## Hi, I am Chalisa Kanabsak 🙌 
 🎓 Junior Computer Science student at Thammasat University
 - 🌱 I’m currently learning about **RAG & LLM technologies** and **Software Tester**.
 - 🌱 I’m passionate about **UX/UI Design** and **Frontend Development**.
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Starlight444&color=89b4fa&style=flat-circle&label=PROFILE+VIEWS)
 
  ## 📰 Certificate 
  - AWS Academy Graduate - Cloud Foundations - Training Badge
